@@ -30,7 +30,7 @@ const Pie = () => {
      <div class="container mx-auto">
        <div class="text-2xl font-serif text-center pt-5">User is on Page 2</div>
        <Button variant="contained" color="secondary"  className={classes.button}>
-       <Link to='/' style={{textDecoration:"none",color:"white"}} >
+       <Link to='/dawaniris/' style={{textDecoration:"none",color:"white"}} >
         Page 1
        </Link>
        </Button>

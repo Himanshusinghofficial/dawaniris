@@ -7,8 +7,8 @@ function App() {
   return (
         <Router>
                 <Switch>
-                  <Route exact path='/' component={BasicTable} />
-                  <Route exact path='/page2' component={Pie} />
+                  <Route exact path='/dawaniris/' component={BasicTable} />
+                  <Route exact path='/dawaniris/page2' component={Pie} />
                 </Switch>
         </Router>
   );

@@ -45,7 +45,7 @@ const BasicTable = () => {
      <div class="container mx-auto">
        <div class="text-2xl font-serif text-center pt-5">User is on Page 1</div>
        <Button variant="contained" color="secondary" className={classes.button}>
-       <Link to='/page2' style={{textDecoration:"none",color:"white"}}>
+       <Link to='/dawaniris/page2' style={{textDecoration:"none",color:"white"}}>
         Page 2
        </Link>
        </Button>
