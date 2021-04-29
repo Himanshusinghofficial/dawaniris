@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dawaniris/static/css/main.42cfc1c7.chunk.css",
-    "main.js": "/dawaniris/static/js/main.7cfea752.chunk.js",
-    "main.js.map": "/dawaniris/static/js/main.7cfea752.chunk.js.map",
+    "main.js": "/dawaniris/static/js/main.451fbb9c.chunk.js",
+    "main.js.map": "/dawaniris/static/js/main.451fbb9c.chunk.js.map",
     "runtime-main.js": "/dawaniris/static/js/runtime-main.5e36b759.js",
     "runtime-main.js.map": "/dawaniris/static/js/runtime-main.5e36b759.js.map",
     "static/js/2.a13db519.chunk.js": "/dawaniris/static/js/2.a13db519.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5e36b759.js",
     "static/js/2.a13db519.chunk.js",
     "static/css/main.42cfc1c7.chunk.css",
-    "static/js/main.7cfea752.chunk.js"
+    "static/js/main.451fbb9c.chunk.js"
   ]
 }
